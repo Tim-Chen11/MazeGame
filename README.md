@@ -8,4 +8,4 @@ Note: gray - starting point, green - exit, brown - wall, yellow - path, blue - p
 The program is implemented in **JAVA** and use **AWT** and **Swing** for GUI
 The program use **DFS** to find the shortest path.
 
-![Maze image]([http://url/to/img.png](https://github.com/Tim-Chen11/MazeGame/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-11-14%20005748.png)https://github.com/Tim-Chen11/MazeGame/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-11-14%20005748.png)
+![Maze image](https://github.com/Tim-Chen11/MazeGame/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-11-14%20005748.png)
